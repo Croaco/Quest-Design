@@ -1,5 +1,5 @@
 
-##What are they and why are they so important?
+# What are they and why are they so important?
 
 Quests, fundamentally, are tasks or objectives assigned to the player which provide a reward of some sort. They are an essential part of game design to the point that they have the ability to drive and define entire games.
 Quests can be divided into types based on what they require you to do ( Kill, Gather, Travel, Escort, Transport…) although it is very common to find quests combining these concepts.

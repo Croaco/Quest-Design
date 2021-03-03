@@ -60,6 +60,6 @@ Download it [here](https://github.com/Croaco/Quest-Design/blob/main/Blueprint/Qu
 
 - Game dev post on by  Jacob Laurits Besenbacher Kjeldsen on dynamic quest design https://www.gamedev.net/tutorials/game-design/game-design-and-theory/the-quest-for-the-custom-quest-system-r4728/
 
-- Gamasutra blog by Richard Moss on games to look at for good quest designm      https://www.gamasutra.com/view/news/314812/Designing_side_quests_Study_these_7_games_and_some_Chris_Avellone_pointers.php
+- Gamasutra blog by Richard Moss on games to look at for good quest design      https://www.gamasutra.com/view/news/314812/Designing_side_quests_Study_these_7_games_and_some_Chris_Avellone_pointers.php
 
 

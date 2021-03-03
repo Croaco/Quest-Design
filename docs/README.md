@@ -3,7 +3,8 @@
 
 Quests, fundamentally, are tasks or objectives assigned to the player which provide a reward of some sort. They are an essential part of game design to the point that they have the ability to drive and define entire games.
 Quests can be divided into types based on what they require you to do ( Kill, Gather, Travel, Escort, Transport…) although it is very common to find quests combining these concepts.
-To put it in understandable terms, quests serve, among other things, as the railroad of a videogame. They provide guidance and sense of purpose to the players by setting both short and long term objectives to achieve. 
+Quests can also be divided into main and side quests depending on the purpose they fulfill. While the main quests move the game forward, be that the narrative, unlocking the next area, etc. side quests work as a depth tool, not being mandatory for the player and adding onto what you already know.
+
 
 ## Market Study
 
@@ -13,7 +14,7 @@ Quests can come in many different forms that change how they are perceived as we
 
 **- World of Warcraft - “The MMO approach”**
 
-In the MMORPG World of Warcraft, the most common quests we can find are “Kill quests”. WoW uses the quests to direct players where it wants them to. Indirectly, the game is teaching you about the geography of the world as well as the enemies and its habitants by making you go to a specific place and kill several monsters, which will make you spend enough time there so that you know your way around when the game makes you come back.
+In the MMORPG World of Warcraft, the most common quests we can find are “Kill quests”. WoW uses the quests to direct players towards the path the game wants them to go to. Indirectly, the game is teaching you about the geography of the world as well as the enemies and its habitants by making you go to a specific place and kill several monsters, which will make you spend enough time there so that you know your way around when the game makes you come back.
 
 ![WoWMap](https://github.com/Croaco/Quest-Design/blob/main/docs/Images/WoWMap.png?raw=true)
 
@@ -24,7 +25,8 @@ MMOs often shine for its world building so making the players interact with the 
 **- Fire Emblem Three Houses - “The freedom of choice”**
 
 Now let's look at something different. Fire Emblem Three Houses is a proper RPG, where your characters level up and acquire new skills and weapons as they grow stronger and you experience a clearly emphasized main quest. The game also provides very interesting side quests , a series of optional levels that have no direct effect on the main story. So, what purpose do they serve?
-Whereas WoW uses its quests to direct the player to a physical space, Fire Emblem uses its side quests to add onto its universe.The quests do not necessarily have to be difficult but they will more than likely make the player go out of his way to complete them. These quests also grant the opportunity to the players who desire to dive into the backstory of some less prominent characters from the main campaign, an emotional reward, but also provide a loot incentive by rewarding those players who chose to spend their time in optional quests with rarer weapons and items.
+Whereas WoW uses its quests to direct the player to a physical space, Fire Emblem uses its side quests to add onto its universe.The quests do not necessarily have to be difficult but they will more than likely make the player go out of his way to complete them. These quests also grant the opportunity to the players who desire to dive into the backstory of some less prominent characters from the main campaign and build a deeper emotional connection with them.
+
 
 ![FireEmblem1](https://github.com/Croaco/Quest-Design/blob/main/docs/Images/FireEmblem1.png?raw=true)
 
@@ -43,7 +45,8 @@ Furthermore, the game offers a series of side quests focused on combat where the
 Having looked at how the industry does it, I propose two considerations in order to properly design quests in our game.
 First of all, it is essential to use quests to introduce the players to new concepts. The best turn based RPGs shine for their depth but are often held back to the main public by how unapproachable they seem. Quests provide an incredible opportunity to solve this problem by using its quests as a learning tool. For example, players can be taught new interactions or be given tips on how to more efficiently approach the game subtlety by giving a side quest where the player meets an old adventurer. This not only helps the player without implying they are less capable than others but it also helps in making the world itself feel more alive by providing richer lore.
 
-The second concept I believe is important when we design quests for our game is that the rewards must feel compelling. Players should feel rewarded for their time and compelled to explore the world if the side quests are interesting but if it gives them a bonus that they can actually feel. To provide an example, let's say we give the players a side quest where the party delays the main quest advance and travels to a different zone. Challenges there may be harder than the appropriate difficulty for that point of the game but, if the player is able to come ahead due to his skill, he can be rewarded with late game items that will accelerate the progression of the party.
+The second principle we should always keep in mind when we design quests for our game is that the rewards must feel compelling. Players should feel rewarded for their time investment and want to explore the world. The side quests may be interesting mechanically but if the reward is not that will stick with the player. To provide an example, let's say we give the players a side quest where the party can choose to delay the main quest and travels to a different zone. The challenges there may be harder than what the player expected for that point of the game but, if the player is able to come ahead due to his skill, he can be rewarded with late game items that will accelerate the progression of the party immensely. In the end, the quest itself may have been hard but the pay off felt worth it and the player ends up satisfied.
+
 
 ## Blueprint
 

@@ -52,7 +52,7 @@ Download it [here](https://github.com/Croaco/Quest-Design/blob/main/Blueprint/Qu
 
 ## References
 
-- GDC talk on quest design in Far Cry and Assassins Creed. https://www.youtube.com/watch?v=knWzlR8mGWA&list=PLJeapIHq5zEo-D2k0dTwLMjGcgw3jZpG6&index=1&t=62s
+- [GDC talk on quest design in Far Cry and Assassins Creed](https://www.youtube.com/watch?v=knWzlR8mGWA&list=PLJeapIHq5zEo-D2k0dTwLMjGcgw3jZpG6&index=1&t=62s)
 
 - GDC talk on narrative and quest design in Assassins Creed III https://www.youtube.com/watch?v=pOh8cGFu4Os&list=PLJeapIHq5zEo-D2k0dTwLMjGcgw3jZpG6&index=2
 

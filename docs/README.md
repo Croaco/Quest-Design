@@ -1,4 +1,3 @@
-Quest design
 
 What are they and why are they so important?
 

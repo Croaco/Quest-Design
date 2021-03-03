@@ -28,7 +28,7 @@ Whereas WoW uses its quests to direct the player to a physical space, Fire Emble
 
 ![FireEmblem1](https://github.com/Croaco/Quest-Design/blob/main/docs/Images/FireEmblem1.png?raw=true)
 
-![FireEmblem2](ttps://github.com/Croaco/Quest-Design/blob/main/docs/Images/FireEmblem2png?raw=true)
+![FireEmblem2](ttps://github.com/Croaco/Quest-Design/blob/main/docs/Images/FireEmblem2.png?raw=true)
 
 Furthermore, the game offers a series of side quests focused on combat where the player can improve his characters and skill in more difficult encounters in addition to giving access to otherwise unobtainable weapons and skills. These missions can be completely ignored and you will be more than able to finish the game but they serve as an incentive for those players who want to tackle an even greater challenge and be rewarded for doing so.
 

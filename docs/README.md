@@ -26,9 +26,13 @@ MMOs often shine for its world building so making the players interact with the 
 Now let's look at something different. Fire Emblem Three Houses is a proper RPG, where your characters level up and acquire new skills and weapons as they grow stronger and you experience a clearly emphasized main quest. The game also provides very interesting side quests , a series of optional levels that have no direct effect on the main story. So, what purpose do they serve?
 Whereas WoW uses its quests to direct the player to a physical space, Fire Emblem uses its side quests to add onto its universe.The quests do not necessarily have to be difficult but they will more than likely make the player go out of his way to complete them. These quests also grant the opportunity to the players who desire to dive into the backstory of some less prominent characters from the main campaign, an emotional reward, but also provide a loot incentive by rewarding those players who chose to spend their time in optional quests with rarer weapons and items.
 
+![FireEmblem1](https://github.com/Croaco/Quest-Design/blob/main/docs/Images/FireEmblem1.png?raw=true)
 
+![FireEmblem2](ttps://github.com/Croaco/Quest-Design/blob/main/docs/Images/FireEmblem2png?raw=true)
 
 Furthermore, the game offers a series of side quests focused on combat where the player can improve his characters and skill in more difficult encounters in addition to giving access to otherwise unobtainable weapons and skills. These missions can be completely ignored and you will be more than able to finish the game but they serve as an incentive for those players who want to tackle an even greater challenge and be rewarded for doing so.
+
+![FireEmblem3](https//github.com/(Croaco/Quest-Design/blob/main/docs/Images/FireEmblem3.png?raw=true)
 
 
 ## How to approach quests in our RPG project

@@ -48,6 +48,18 @@ The second concept I believe is important when we design quests for our game is 
 ## Blueprint
 
 For the purpose of making it easier for the teams to design quests I have come up with a blueprint of sorts to follow when creating a quest based on my research and the structures professionals in the industry follow.
+Download it [here](https://github.com/Croaco/Quest-Design/blob/main/Blueprint/Quest%20design%20blueprint.pdf?raw=true).
 
+## References
+
+- GDC talk on quest design in Far Cry and Assassins Creed. https://www.youtube.com/watch?v=knWzlR8mGWA&list=PLJeapIHq5zEo-D2k0dTwLMjGcgw3jZpG6&index=1&t=62s
+
+- GDC talk on narrative and quest design in Assassins Creed III https://www.youtube.com/watch?v=pOh8cGFu4Os&list=PLJeapIHq5zEo-D2k0dTwLMjGcgw3jZpG6&index=2
+
+- Gamasutra blog by Stanley Handschuch on quest dessign https://www.gamasutra.com/blogs/StanleyHandschuh/20130701/195435/Mission_and_Quest_Design_Series.php
+
+- Game dev post on by  Jacob Laurits Besenbacher Kjeldsen on dynamic quest design https://www.gamedev.net/tutorials/game-design/game-design-and-theory/the-quest-for-the-custom-quest-system-r4728/
+
+- Gamasutra blog by Richard Moss on games to look at for good quest designm      https://www.gamasutra.com/view/news/314812/Designing_side_quests_Study_these_7_games_and_some_Chris_Avellone_pointers.php
 
 

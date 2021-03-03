@@ -24,14 +24,14 @@ Whereas WoW uses its quests to direct the player to a physical space, Fire Emble
 Furthermore, the game offers a series of side quests focused on combat where the player can improve his characters and skill in more difficult encounters in addition to giving access to otherwise unobtainable weapons and skills. These missions can be completely ignored and you will be more than able to finish the game but they serve as an incentive for those players who want to tackle an even greater challenge and be rewarded for doing so.
 
 
-How to approach quests in our RPG project
+## How to approach quests in our RPG project
 
 Having looked at how the industry does it, I propose two considerations in order to properly design quests in our game.
 First of all, it is essential to use quests to introduce the players to new concepts. The best turn based RPGs shine for their depth but are often held back to the main public by how unapproachable they seem. Quests provide an incredible opportunity to solve this problem by using its quests as a learning tool. For example, players can be taught new interactions or be given tips on how to more efficiently approach the game subtlety by giving a side quest where the player meets an old adventurer. This not only helps the player without implying they are less capable than others but it also helps in making the world itself feel more alive by providing richer lore.
 
 The second concept I believe is important when we design quests for our game is that the rewards must feel compelling. Players should feel rewarded for their time and compelled to explore the world if the side quests are interesting but if it gives them a bonus that they can actually feel. To provide an example, let's say we give the players a side quest where the party delays the main quest advance and travels to a different zone. Challenges there may be harder than the appropriate difficulty for that point of the game but, if the player is able to come ahead due to his skill, he can be rewarded with late game items that will accelerate the progression of the party.
 
-Blueprint
+## Blueprint
 
 For the purpose of making it easier for the teams to design quests I have come up with a blueprint of sorts to follow when creating a quest based on my research and the structures professionals in the industry follow.
 

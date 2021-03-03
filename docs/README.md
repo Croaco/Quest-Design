@@ -9,7 +9,7 @@ To put it in understandable terms, quests serve, among other things, as the rail
 
 Quests can come in many different forms that change how they are perceived as well as the purpose of it so we will look at some good examples.
 
-- World of Warcraft - “The MMO approach”
+**- World of Warcraft - “The MMO approach”**
 
 In the MMORPG World of Warcraft, the most common quests we can find are “Kill quests”. WoW uses the quests to direct players where it wants them to. Indirectly, the game is teaching you about the geography of the world as well as the enemies and its habitants by making you go to a specific place and kill several monsters, which will make you spend enough time there so that you know your way around when the game makes you come back.
 MMOs often shine for its world building so making the players interact with the world and get used to travelling through it is essential. In this example, the quest, in essence, just requires the player to find a Slumbering Soul and interact with it, not really complex, however, the player has to travel all around the zone, making use of travel points, learning its paths and more than likely finding secrets along the way.

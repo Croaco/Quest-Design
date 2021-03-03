@@ -5,16 +5,16 @@ Quests, fundamentally, are tasks or objectives assigned to the player which prov
 Quests can be divided into types based on what they require you to do ( Kill, Gather, Travel, Escort, Transport…) although it is very common to find quests combining these concepts.
 To put it in understandable terms, quests serve, among other things, as the railroad of a videogame. They provide guidance and sense of purpose to the players by setting both short and long term objectives to achieve. 
 
-# Market Study
+## Market Study
 
 Quests can come in many different forms that change how they are perceived as well as the purpose of it so we will look at some good examples.
 
-###World of Warcraft - “The MMO approach”
+## World of Warcraft - “The MMO approach”
 
 In the MMORPG World of Warcraft, the most common quests we can find are “Kill quests”. WoW uses the quests to direct players where it wants them to. Indirectly, the game is teaching you about the geography of the world as well as the enemies and its habitants by making you go to a specific place and kill several monsters, which will make you spend enough time there so that you know your way around when the game makes you come back.
 MMOs often shine for its world building so making the players interact with the world and get used to travelling through it is essential. In this example, the quest, in essence, just requires the player to find a Slumbering Soul and interact with it, not really complex, however, the player has to travel all around the zone, making use of travel points, learning its paths and more than likely finding secrets along the way.
 
-###Fire Emblem Three Houses - “The freedom to choose”
+## Fire Emblem Three Houses - “The freedom to choose”
 
 Now let's look at something different. Fire Emblem Three Houses is a proper RPG, where your characters level up and acquire new skills and weapons as they grow stronger and you experience a clearly emphasized main quest. The game also provides very interesting side quests , a series of optional levels that have no direct effect on the main story. So, what purpose do they serve?
 Whereas WoW uses its quests to direct the player to a physical space, Fire Emblem uses its side quests to add onto its universe.The quests do not necessarily have to be difficult but they will more than likely make the player go out of his way to complete them. These quests also grant the opportunity to the players who desire to dive into the backstory of some less prominent characters from the main campaign, an emotional reward, but also provide a loot incentive by rewarding those players who chose to spend their time in optional quests with rarer weapons and items.

@@ -51,7 +51,7 @@ The second principle we should always keep in mind when we design quests for our
 ## Blueprint
 
 For the purpose of making it easier for the teams to design quests I have come up with a blueprint of sorts to follow when creating a quest based on my research and the structures professionals in the industry follow.
-Download it [here](https://github.com/Croaco/Quest-Design/blob/main/Blueprint/Quest%20design%20blueprint.pdf?raw=true).
+Download it [here](https://github.com/Croaco/Quest-Design/blob/main/Blueprint/Quest%20design%20blueprint%20Final.pdf?raw=true).
 
 ## References
 
